@@ -13,7 +13,7 @@ Node.js
 
 Jest
 
-GitHub Actions4
+GitHub Actions
 
 # 🤖 Integração Contínua (CI)
 
@@ -29,6 +29,6 @@ Execução dos testes (npm test)
 
 # 📚 Autor
 
-* Nome: Daniel Canivezo Soares *
+* Nome: Daniel Canivezo Soares 
 
-* Projeto acadêmico sobre DevOps e Integração Contínua *
+* Projeto acadêmico sobre DevOps e Integração Contínua 
